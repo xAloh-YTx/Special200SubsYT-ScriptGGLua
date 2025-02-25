@@ -3,7 +3,7 @@
 
 [🎮] : Payback2 (2.106.9)
 
-[🛡️] : Simple Hex Encode (Bin + Hex)
+[🛡️] : Simple Encode (Bin + Hex)
 
 [⚠️] :
 
